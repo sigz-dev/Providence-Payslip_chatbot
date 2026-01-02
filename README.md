@@ -379,13 +379,9 @@ This project is for educational and portfolio purposes.
 
 ---
 
-## 📸 Screenshots
+## 📸demo video
 
-*Add screenshots here of:*
-- Admin dashboard
-- WhatsApp conversation flow
-- Employee management interface
-- Statistics page
+https://github.com/sigz-dev/Providence-Payslip_chatbot/raw/refs/heads/main/.mp4
 
 ---
 
